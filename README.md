@@ -29,6 +29,10 @@ A progression of Bash-based NGS workflows developed before moving the workflow i
 
 Python and Biopython scripts for FASTQ parsing, nucleotide analysis, read-length statistics, duplicate-ID handling, and sequencing-data exploration.
 
+### Sequencing QC Experiments
+
+Experimental Python/Biopython utilities exploring PHRED quality statistics and per-position sequencing QC, including an investigation into how sequencing quality changes across read position.
+
 ## Technologies
 
 **Languages:** Python, Bash, R, SQL
